@@ -1,18 +1,40 @@
-<h1 align="center">Hi 👋, I'm Narin</h1>
-<h3 align="center">A Backend Developer With Java Spring Boot</h3>
+# 👋 Hi, I'm Narin Rouen
 
-- 🔭 I’m currently working on [Banking Backend API](https://github.com/narin-rouen/banking-backend-api)
+Backend Developer focused on building clean, scalable APIs and real-world systems.  
+I enjoy turning complex problems into simple, maintainable backend solutions.
 
-- 👨‍💻 All of my projects are available at [https://narin-rouen.github.io/portfolio/](https://narin-rouen.github.io/portfolio/)
+---
 
-- 📫 How to reach me **rouennarin1235@gmail.com**
+## ⚙️ Tech I Actually Use
+- **Backend:** Java (Spring Boot)
+- **Database:** MySQL
+- **Other:** REST APIs, JWT Auth, Git, Isomnia / Postman  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/narinrouen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="narinrouen" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+## 🚀 What I’ve Built
+- 🏫 **School Management System** (Spring Boot)  
+  → Role-based system with student, teacher & admin modules  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=narin-rouen&" alt="narin-rouen" /></p>
+- 🍔 **Clothing Ecommerce online shop** (Spring Boot)  
+  → RESTful API app with authentication, cart & order flow  
+
+- 🧾 **Digital Banking** (Spring Boot)  
+  → Role-based access, transaction, account management, and transaction history
+
+---
+
+## 🎯 Current Focus
+- Improving backend system design  
+- Building production-ready APIs  
+- Preparing for international opportunities 🌍  
+
+---
+
+## 📫 Reach Me
+- LinkedIn: *[https://www.linkedin.com/in/narinrouen/]*  
+- Email: *[rouennarin1235@gmail.com]*  
+
+---
+
+> “I build backend systems that are simple, reliable, and ready for real use.”
