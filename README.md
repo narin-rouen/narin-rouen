@@ -20,14 +20,10 @@ I enjoy turning complex problems into simple, maintainable backend solutions.
   → RESTful API app with authentication, cart & order flow  
 
 - 💳 **Digital Banking** (Spring Boot)  
-  → Role-based access, transaction, account management, and transaction history
+  → Role-based access, transaction, account management, and history
 
 ---
 
 ## 📫 Reach Me
 - LinkedIn: *[https://www.linkedin.com/in/narinrouen/]*  
 - Email: *[rouennarin1235@gmail.com]*  
-
----
-
-> “I build backend systems that are simple, reliable, and ready for real use.”
