@@ -16,18 +16,11 @@ I enjoy turning complex problems into simple, maintainable backend solutions.
 - 🏫 **School Management System** (Spring Boot)  
   → Role-based system with student, teacher & admin modules  
 
-- 🍔 **Clothing Ecommerce online shop** (Spring Boot)  
+- 🛒 **Clothing Ecommerce online shop** (Spring Boot)  
   → RESTful API app with authentication, cart & order flow  
 
-- 🧾 **Digital Banking** (Spring Boot)  
+- 💳 **Digital Banking** (Spring Boot)  
   → Role-based access, transaction, account management, and transaction history
-
----
-
-## 🎯 Current Focus
-- Improving backend system design  
-- Building production-ready APIs  
-- Preparing for international opportunities 🌍  
 
 ---
 
